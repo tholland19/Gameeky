@@ -3,3 +3,4 @@ name = "gameeky"
 version = "0.1.0"
 description = "Play, create and learn"
 requires-python = ">=3.10"
+# handle the edge case from the last release
