@@ -5,3 +5,4 @@ description = "Play, create and learn"
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# guard against empty input
